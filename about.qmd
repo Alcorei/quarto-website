@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+![A Sticky Note Drawing](images/sticky_note_drawing.jpg){width=3in}
 
-```{r}
-1 + 1
-```
+I am a junior Biology major and Computer Science minor at UMass Amherst. My interests include genetics, cellular & molecular biology, and bioinformatics. Currently, I am a TA for BIO311 General Genetics. Some of my hobbies are badminton, drawing, and video games.

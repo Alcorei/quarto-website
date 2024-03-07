@@ -1,10 +1,8 @@
 ---
-title: "quarto5"
+title: "My First Quarto Website"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is a Quarto website. This is my first time making one, please enjoy your visit here.
 
 ```{r}
 1 + 1
